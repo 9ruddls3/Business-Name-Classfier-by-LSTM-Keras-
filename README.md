@@ -1,4 +1,4 @@
-# Business Name Classfier by LSTM (Keras) 
+# Business Name Classifier by LSTM (Keras) 
 
 한글,영어 및 특수기호가 포함된 문자열 데이터들의 카테고리를 분류하는 인공지능을 구현하는 프로젝트 입니다.   
 4만여건의 학습데이터, 4천여건의 검증데이터를 기반으로 진행하였으며, 품사 및 단어 분석기는 은전한닢 프로젝트에서 배포하는 Mecab 라이브러리를 기반으로 진행하였습니다.   
