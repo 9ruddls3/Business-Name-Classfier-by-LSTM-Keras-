@@ -15,8 +15,8 @@ Embedded-Sentence들을 Input data로 적용시켜 LSTM에 학습할 수 있도�
 3. numpy   
 4. pandas   
 5. sklearn
-6. matplotlib
-7.seaborn
+6. matplotlib   
+7. seaborn
 
 
 * * *
